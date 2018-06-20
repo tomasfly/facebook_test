@@ -13,10 +13,6 @@ class LoginPage {
         this.password.sendKeys(pass);
         this.loginButton.click();
         helper.waitForTheElementToBeVisible(this.mainContainer);
-
-        var millisecondsToWait = 15000;
-        setTimeout(function () {
-        }, millisecondsToWait);
     }
 }
 module.exports = new LoginPage();
