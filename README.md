@@ -2,9 +2,10 @@
 
 How to run the test:
 
-1. install node js.
-2. install yarn.
-3. clone this repo.
-4. execute 'yarn install'
-5. execute './node_modules/protractor/bin/webdriver-manager update'
-6. execute 'yarn test'
+1. For windows, install Git Bash.
+2. install node js.
+3. install yarn.
+4. clone this repo.
+5. execute 'yarn install' inside cloned directory.
+6. execute './node_modules/protractor/bin/webdriver-manager update'
+7. execute 'yarn test'
