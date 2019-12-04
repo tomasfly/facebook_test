@@ -1,7 +1,7 @@
 {
     "url":"https://www.facebook.com/",
     "timeout":"5000",
-    "username":"tomas.fleiderman@cision.com", 
-    "password":"asdasd123",
+    "username":"", 
+    "password":"",
     "postText":"Hello world"
 }
